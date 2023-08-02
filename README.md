@@ -1,10 +1,10 @@
 ### Who I am
-I'm Mryan2005, When I was young, My dad teach me how to use computers. From that time, I teach myself to develope software.
+I'm Mryan2005, When I was young, I was taught how to use computers by my dad. From that time, I interest in computers and I teach myself to develope software.
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Mryan2005)
 <!--
 **Mryan2005/Mryan2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
