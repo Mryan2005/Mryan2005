@@ -1,4 +1,5 @@
-### Hi there 👋
+### Who I am
+I'm Mryan2005, When I was young, My dad teach me how to use computers. From that time, I teach myself to develope software.
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Mryan2005)
 <!--
 **Mryan2005/Mryan2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
