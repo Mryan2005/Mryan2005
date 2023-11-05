@@ -1,6 +1,8 @@
 ### Who I am
 <img align="right" src="/github-metrics.svg" width = 55%></img>
-
+<br>
+<br>
+<br>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mryan2005&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" width = 55%></img>
 I'm Mryan2005, When I was young, I was taught how to use computers by my dad.From that time, I interest in computers and I teach myself to develope software. Now, I study in SSPU.
 
