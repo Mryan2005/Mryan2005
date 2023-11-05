@@ -16,6 +16,7 @@
      <img src="/github-metrics.svg" alt="Metrics" width="100%">
   </div>
 </div>
+<img src=https://github-readme-stats.vercel.app/api/top-langs?username=Mryan2005&show_icons=true&count_private=true&theme=gotham width="100%">
 <!--
 **Mryan2005/Mryan2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
