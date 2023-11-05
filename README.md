@@ -1,5 +1,5 @@
 ### Who I am
-<img align="right" src="/github-metrics.svg" width = 50% />
+<img align="right" src="/github-metrics.svg" width = 55%></img>
 I'm Mryan2005, When I was young, I was taught how to use computers by my dad.From that time, I interest in computers and I teach myself to develope software. Now, I study in SSPU.
 
 I don't know why I love developing software, maybe it is interest.Nut now, I have set foot on the way to be a excellent developer, and I am still walking on this road.
