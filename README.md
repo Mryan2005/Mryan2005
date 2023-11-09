@@ -15,6 +15,8 @@ My bilibili is [Mr_yan05](https://space.bilibili.com/372328307)
 
 ### My Achievement
 <img src="/github-metrics.svg"></img>
+
+### My top languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mryan2005&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"></img>
 <!--
 **Mryan2005/Mryan2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
