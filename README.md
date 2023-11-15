@@ -2,7 +2,9 @@
 
 I'm Mryan2005, When I was young, I was taught how to use computers by my dad. From that time, I interest in computers and I teach myself to develope software. Now, I study in SSPU.
 
-I don't know why I love developing software, maybe because of My interest or My lazy style. but now, I have set foot on the way to be a excellent developer, and I am still walking on this road.
+I don't know why I love developing software, maybe because I have interest in  computer or I like living lazily. but you know, when you went to live lazily, you need to a lot of things to prepare it, me too.
+
+now, I have set foot on the way to be a excellent developer, and I am still walking on this road.
 
 I like playing Minecraft, but now I seldom do it.
 
