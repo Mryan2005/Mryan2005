@@ -8,7 +8,7 @@ now, I have set foot on the way to be a excellent developer, and I am still walk
 
 I like playing Minecraft, but now I seldom do it.
 
-I love Haibara Ai a lot, she is so perfected that catch my attention, and she is my gaddress, but the reason why I love her is that we have some similar experience. I still remember that when Detective Conan Movie 26 was released, I can't wait to see her, and posted the moment where I was watching the movie, someone who don't konw Haibara Ai is a role of Detective Conan maybe think I have a girlfriend. Speaking truely, I don't like the cp which is Edogawa conan and Haibara Ai, if it is true, It will be a sadly story that I can't fall in love with Haibara Ai. 
+Haibara Ai, who I love a lot, is Miyano Shiho, she is so perfected that catch my attention, and she is my goddress, but the reason why I love her is that we have some similar experience. I still remember that when Detective Conan Movie 26 was released, I can't wait to see her, and posted the moment where I was watching the movie, someone who don't konw Haibara Ai is a role of Detective Conan maybe think she is my girlfriend. Speaking truely, I don't like the cp which is Edogawa conan and Haibara Ai, if it is true, It will be a sadly story that I can't fall in love with Haibara Ai. 
 
 if you went to fall in love with me, I may be a wonderful and excellent destoryor, destorying our relationship because I will think you give me up if  you don't sent a massage to me.  
 
