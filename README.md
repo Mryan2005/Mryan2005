@@ -31,7 +31,7 @@ My Huggingface is [Mryan2005](https://huggingface.co/Mryan2005)
 
 ## My Works💾
 1. [SSPUBot](https://github.com/Mryan2005/SSPU-Bot)
-2. [Haibara Ai](https://github.com/Mryan2005/Haibara-Ai), when I see the film which is called Detective Conan Movie 26: Black Iron Submarine, I think I want to do.
+2. [Haibara Ai](https://github.com/Mryan2005/Haibara-Ai) (when I see the film which is called Detective Conan Movie 26: Black Iron Submarine, I think I want to do.)
 <!--
 **Mryan2005/Mryan2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
