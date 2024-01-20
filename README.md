@@ -32,9 +32,6 @@ My Huggingface is [Mryan2005](https://huggingface.co/Mryan2005)
 ## My Works💾
 1. [SSPUBot](https://github.com/Mryan2005/SSPU-Bot)
 2. [Haibara Ai](https://github.com/Mryan2005/Haibara-Ai) (a private repo)
-
-## My Afdian
-[![pFFimhF.png](https://s11.ax1x.com/2024/01/16/pFFimhF.png)](https://imgse.com/i/pFFimhF)
 <!--
 **Mryan2005/Mryan2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
