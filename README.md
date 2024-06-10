@@ -12,6 +12,8 @@ Haibara Ai, whom I loved so much, is so perfect that she fascinates me, and she 
 
 If you were going to fall in love with me, I might be a wonderful, excellent Wreck-It Ralph to ruin our relationship, because I would think you were giving me up if you did not send me a message.
 
+Finally, there's a saying that It's not about being born extraordinary, but daring to be extraordinary. The era requires us, it needs pioneers like us, to break through, to change, to create. I will keep pushing boundaries in the futhure.
+
 ## My Social Media📫
 My Sina Microblog is [mryan2005](https://weibo.com/mryan2005)
 
