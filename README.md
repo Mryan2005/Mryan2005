@@ -34,7 +34,7 @@ My Huggingface is [Mryan2005](https://huggingface.co/Mryan2005)
 
 ## My top Languages📄
 
-<img align="center" src="https://skillicons.dev/icons?i={C, Python, C++}&theme=light" />
+<img src="https://skillicons.dev/icons?i=git,docker,c,cpp,python" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mryan2005&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"></img>
 
