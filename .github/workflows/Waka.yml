@@ -1,6 +1,9 @@
 name: Waka Readme
 
 on:
+  workflow_dispatch:
+  # (optional) Run workflow when pushing on master/main
+  push: {branches: ["master", "main"]}
   schedule:
     # Runs at 12am IST
     - cron: '30 18 * * *'
