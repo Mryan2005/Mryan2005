@@ -30,8 +30,7 @@ My Huggingface is [Mryan2005](https://huggingface.co/Mryan2005)
 
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Mryan2005&theme=github-compact&hide_border=true&area=true" />
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mryan2005"></img>
 
 ## My top Languages📄
 
