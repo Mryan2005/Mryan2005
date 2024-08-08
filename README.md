@@ -34,6 +34,8 @@ My Huggingface is [Mryan2005](https://huggingface.co/Mryan2005)
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mryan2005"></img>
 
+This is my total time I devote into coding (since I created my wakaTime account) : [![wakatime](https://wakatime.com/badge/user/aa8df3f1-fb84-4e5f-972c-a799978f737d.svg)](https://wakatime.com/@aa8df3f1-fb84-4e5f-972c-a799978f737d)
+
 ## My top Languages📄
 
 <img src="https://skillicons.dev/icons?i=c,cpp,python,bash" />
