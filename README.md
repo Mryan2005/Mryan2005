@@ -42,7 +42,7 @@ This is my total time I devote into coding (since I created my wakaTime account)
 
 ## Things Being Learned
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,bash,cmake,githubactions,java,matlab,mysql,opencv,py,pytorch,mysql,unreal,md,html,vim" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,bash,cmake,githubactions,java,matlab,mysql,opencv,py,pytorch,mysql,unreal,md,html,vim,ubuntu" />
 
 ## Tools and platforms I'm using
 
