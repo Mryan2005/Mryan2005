@@ -42,11 +42,11 @@ This is my total time I devote into coding (since I created my wakaTime account)
 
 ## Things Being Learned
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,bash,cmake,githubactions,java,matlab,mysql,opencv,py,pytorch,mysql,unreal,md,html" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,bash,cmake,githubactions,java,matlab,mysql,opencv,py,pytorch,mysql,unreal,md,html,vim" />
 
 ## Tools and platforms I'm using
 
-<img src="https://skillicons.dev/icons?i=docker,git,windows,ubuntu,apple,clion,cloudflare,github,gitlab,githubactions,opencv,phpstorm,pycharm,py,pytorch,vercel,vscode,unreal,tensorflow,mysql,md,anaconda" />
+<img src="https://skillicons.dev/icons?i=docker,git,windows,ubuntu,apple,clion,cloudflare,github,gitlab,githubactions,opencv,phpstorm,pycharm,py,pytorch,vercel,vscode,unreal,tensorflow,mysql,md,anaconda,vim" />
 
 ## My Works💾
 1. [SSPUBot](https://github.com/Mryan2005/SSPU-Bot)
