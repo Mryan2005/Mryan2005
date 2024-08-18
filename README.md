@@ -8,7 +8,7 @@ Recently, I've been diving into coding and working towards becoming a proficient
 
 I used to be really into playing Minecraft, but these days I hardly ever get the chance to do it.
 
-Haibara Ai, whom I loved so much, is so perfect that she fascinates me, and she was my goddess, but I loved her because we had some similar things, for example, we buy some established brands products. I still remember that when Detective Conan Movie 26: Black Iron Submarine was released, I couldn't wait to see her, and posted the moment when I was watching the movie, someone who didn't know Haibara Ai was the role of Detective Conan may have thought she was my girlfriend. To be honest, I did not like the CP about Edogawa Conan and Haibara Ai. If Haibara Ai marries Conan, I think, as the saying goes, to learn from Conan, to be Conan, to surpass Conan.
+Haibara Ai, whom I loved so much, is so perfect that she fascinates me, and she was my goddess, but I loved her because we had some similar things, for example, we buy some established brands products. I still remember that when Detective Conan Movie 26: Black Iron Submarine was released, I couldn't wait to see her, and posted the moment when I was watching the movie, someone who didn't know Haibara Ai was the role of Detective Conan may have thought she was my girlfriend.
 
 now, I like a new role whose name is Venti, from Genshin. My GitHub avatar was token when I cosplay him, I pixelated it before I upload it.
 
