@@ -32,7 +32,9 @@ My Huggingface is [Mryan2005](https://huggingface.co/Mryan2005)
 
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Mryan2005&theme=github-compact&hide_border=true&area=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mryan2005"></img>
+<!--<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mryan2005"></img>-->
+
+<img src="https://wakatime.com/share/@Mryan2005/86354979-2142-466b-b10d-e4927dedf688.svg"></img>
 
 This is my total time I devote into coding (since I created my wakaTime account) : [![wakatime](https://wakatime.com/badge/user/aa8df3f1-fb84-4e5f-972c-a799978f737d.svg)](https://wakatime.com/@aa8df3f1-fb84-4e5f-972c-a799978f737d)
 
