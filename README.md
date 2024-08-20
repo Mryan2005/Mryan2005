@@ -27,8 +27,12 @@ My CDSN Blog is [Mryan2005](https://blog.csdn.net/qq_21739599?spm=1000.2115.3001
 
 My Huggingface is [Mryan2005](https://huggingface.co/Mryan2005)
 
-## My Status in Coding😀
+
+## My GitHub Status
+
 <img src="/github-metrics.svg"></img>
+
+## My Status in Coding😀
 
 <img height=80% width=80% src="https://github-readme-activity-graph.vercel.app/graph?username=Mryan2005&theme=github-compact&hide_border=true&area=true" />
 
