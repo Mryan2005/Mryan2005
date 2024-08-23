@@ -10,7 +10,7 @@ I used to be really into playing Minecraft, but these days I hardly ever get the
 
 Haibara Ai, whom I loved so much, is so perfect that she fascinates me, and she was my goddess, but I loved her because we had some similar things, for example, we buy some established brands products. I still remember that when Detective Conan Movie 26: Black Iron Submarine was released, I couldn't wait to see her, and posted the moment when I was watching the movie, someone who didn't know Haibara Ai was the role of Detective Conan may have thought she was my girlfriend.
 
-now, I like a new role whose name is Venti, from Genshin. My GitHub avatar was token when I am cosplaying him, but the coiffure is not like him, because I'm not able to make the coiffure which is like him by  only myself.
+now, I like a new role whose name is Venti, from Genshin. My GitHub avatar was token when I was cosplaying him, but the coiffure is not like him, because I'm not able to make the coiffure which is like him by  only myself.
 
 If you were going to fall in love with me, I might be a wonderful, excellent Wreck-It Ralph to ruin our relationship, because I would think you were giving me up if you did not send me a message.
 
