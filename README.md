@@ -57,6 +57,7 @@ This is my total time I devote into coding (since I created my wakaTime account)
 ## My Works💾
 1. [SSPUBot](https://github.com/Mryan2005/SSPU-Bot)
 2. [Haibara Ai](https://github.com/Mryan2005/Haibara-Ai) (a private repo)
+3. [VentiEdgeAddon](https://github.com/Mryan2005/VentiEdgeAddon)
 <!--
 **Mryan2005/Mryan2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
