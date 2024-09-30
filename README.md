@@ -3,12 +3,17 @@
 ```python
 class Person:
   def __init__(self, name, School, currentPosition, hobbies):
-    self.name = NULL
-    self.School = NULL
-    self.currentPosition = NULL
-    self.hobbies = []
+    self.name = name
+    self.School = School
+    self.currentPosition = currentPosition
+    self.hobbies = hobbies
 
-Mryan2005 = Person("Zhizhong Yan", "Shanghai Polytechnic University", "Shanghai, China", ["Developing software", Watching BiliBili", "Traveling"])
+Mryan2005 = Person(
+  "Zhizhong Yan",
+  "Shanghai Polytechnic University",
+  "Shanghai, China",
+  ["Developing software", "Watching BiliBili", "Traveling"]
+)
 ```
 
 ## Who I am
