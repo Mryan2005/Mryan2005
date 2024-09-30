@@ -1,3 +1,16 @@
+## Using Code to Introduce me
+
+```python
+class Person:
+  def __init__(self, name, School, currentPosition, hobbies):
+    self.name = NULL
+    self.School = NULL
+    self.currentPosition = NULL
+    self.hobbies = []
+
+Mryan2005 = Person("Zhizhong Yan", "Shanghai Polytechnic University", "Shanghai, China", ["Developing software", Watching BiliBili", "Traveling"])
+```
+
 ## Who I am
 
 I am Mryan2005. My real name is Zhizhong Yan, and when I was young, my dad taught me how to use computers. Since then, I have developed a keen interest in computers and taught myself software development. Currently, I am studying at SSPU.
