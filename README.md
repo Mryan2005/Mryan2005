@@ -2,8 +2,8 @@
 
 ```python
 class Person:
-  def __init__(self, name, School, currentPosition, hobbies):
-    self.name = name
+  def __init__(self, realname, School, currentPosition, hobbies):
+    self.realname = realname
     self.School = School
     self.currentPosition = currentPosition
     self.hobbies = hobbies
