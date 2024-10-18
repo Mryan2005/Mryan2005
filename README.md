@@ -76,6 +76,11 @@ This is my total time I devote into coding (since I created my wakaTime account)
 1. [SSPUBot](https://github.com/Mryan2005/SSPU-Bot)
 2. [Haibara Ai](https://github.com/Mryan2005/Haibara-Ai) (a private repo)
 3. [VentiEdgeAddon](https://github.com/Mryan2005/VentiEdgeAddon)
+ 
+## What I wish
+
+I wish many, many, many GitHub friends can follow me because of my coding, but I know my coding ability is so poor that I often write some codes and some projects looks so stupid.
+
 <!--
 **Mryan2005/Mryan2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
