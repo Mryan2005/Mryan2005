@@ -79,7 +79,7 @@ This is my total time I devote into coding (since I created my wakaTime account)
  
 ## What I wish
 
-I wish many, many, many GitHub friends can follow my GitHub because of my codes, but I know my coding ability is so poor that I often write some codes and some projects looks so stupid, and It maybe makes my wish looks like a fantasy story. All right! Despite all this, I believe that I can be a wonderful programmer in the near future.
+I wish many, many, many GitHub friends can follow my GitHub because of my codes, but I know my coding ability is a bit poor, and I often write some codes and some projects, those things look so stupid, and they makes my wish looks like a fantasy story. All right! Despite all this, I believe that I can be a wonderful programmer in the near future.
 
 <!--
 **Mryan2005/Mryan2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
