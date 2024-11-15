@@ -55,5 +55,3 @@ jobs:
           plugin_leetcode_limit_skills: 10
           plugin_leetcode_sections: solved
           plugin_leetcode_user: mryan2005
-          plugin_projects: yes
-          plugin_projects_limit: 4
