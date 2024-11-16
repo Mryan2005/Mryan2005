@@ -60,6 +60,10 @@ My Huggingface is [Mryan2005](https://huggingface.co/Mryan2005)
 
 This is my total time I devote into coding (since I created my wakaTime account) : [![wakatime](https://wakatime.com/badge/user/aa8df3f1-fb84-4e5f-972c-a799978f737d.svg)](https://wakatime.com/@aa8df3f1-fb84-4e5f-972c-a799978f737d)
 
+## My Luogu
+
+![](https://luogu-card.vercel.app/practice?id=1412483&hide_title=true)
+
 ## My top Languages📄
 
 <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,md" />
