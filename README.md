@@ -62,7 +62,7 @@ This is my total time I devote into coding (since I created my wakaTime account)
 
 ## My Luogu
 
-![](https://luogu-card.vercel.app/practice?id=1412483&hide_title=true)
+![](https://api.jerryz.com.cn/about?id=1412483&hide_title=true&disable_cache=true)
 
 ## My top Languages📄
 
