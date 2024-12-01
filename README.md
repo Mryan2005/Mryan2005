@@ -9,7 +9,7 @@ class Person:
     self.hobbies = hobbies
 
 Mryan2005 = Person(
-  "Zhizhong Yan",
+  "YAN Zhizhong",
   "Shanghai Polytechnic University",
   "Shanghai, China",
   ["Developing software", "Watching BiliBili", "Traveling"]
@@ -18,7 +18,7 @@ Mryan2005 = Person(
 
 ## Who I am
 
-I am Mryan2005. My real name is Zhizhong Yan, and when I was young, my dad taught me how to use computers. Since then, I have developed a keen interest in computers and taught myself software development. Currently, I am studying at SSPU.
+I am Mryan2005. My real name is YAN Zhizhong, and when I was young, my dad taught me how to use computers. Since then, I have developed a keen interest in computers and taught myself software development. Currently, I am studying at SSPU.
 
 I have no idea why I love developing software. Maybe it's because I have an interest in computers, or I like to live lazily, but you know, when you go to live in idleness, you need a lot of things to be ready for it, and so do I.
 
