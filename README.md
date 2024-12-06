@@ -32,7 +32,7 @@ now, I like a new role whose name is Venti, from Genshin. My GitHub avatar was t
 
 If you were going to fall in love with me, I might be a wonderful, excellent Wreck-It Ralph to ruin our relationship, because I would think you were giving me up if you did not send me a message.
 
-Well, as the saying goes, ‘It's not about being born extraordinary, but daring to be extraordinary. The era requires us, it needs pioneers like us, to break through, to change, to create’. I will keep pushing boundaries in the futhure.
+Finally, as the saying goes, ‘It's not about being born extraordinary, but daring to be extraordinary. The era requires us, it needs pioneers like us, to break through, to change, to create’. I will keep pushing boundaries in the futhure.
 
 ## My Social Media📫
 My Sina Microblog is [mryan2005](https://weibo.com/mryan2005)
