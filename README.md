@@ -20,7 +20,7 @@ Mryan2005 = Person(
 
 I am Mryan2005. My real name is YAN Zhizhong, and when I was young, my dad taught me how to use computers. Since then, I have developed a keen interest in computers and taught myself software development. Currently, I am studying at SSPU.
 
-I have no idea why I love developing software. Maybe it's because I have an interest in computers, or I like to live lazily, but you know, when you go to live in idleness, you need a lot of things to be ready for it, and so do I.
+I have no idea why I love developing software. Maybe it's because I have an interest in computers, or I like to live lazily, but you know, when you go to live in idleness, you need a lot of things to be ready for it, and  the programs maybe can help you.
 
 Recently, I've been diving into coding and working towards becoming a proficient developer. I'm still making progress on my journey to achieve that goal.
 
