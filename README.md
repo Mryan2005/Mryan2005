@@ -64,6 +64,10 @@ This is my total time I devote into coding (since I created my wakaTime account)
 
 ![](https://api.jerryz.com.cn/practice?id=1412483&hide_title=true&disable_cache=true)
 
+## [My Leetcode]()
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Mryan2005?theme=light&font=Caudex&ext=activity&site=cn)
+
 ## My top Languages📄
 
 <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,md" />
