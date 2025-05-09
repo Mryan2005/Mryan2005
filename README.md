@@ -79,7 +79,7 @@ This is my total time I devote into coding (since I created my wakaTime account)
 
 ## Some things I want to do
 
-1. Fuyao Gambler V1
+1. Fuyao Gambler V0
  
 ## What I wish
 
