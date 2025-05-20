@@ -16,5 +16,6 @@ module.exports = async (req: VercelRequest, res: VercelResponse) => {
         status: status,
         message: message,
     };
+    res.setHeader('Access-Control-Expose-Headers', 'Love-Token'); // 示例
     res.status(200).json(data);
 }
