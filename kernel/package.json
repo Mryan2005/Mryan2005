@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "typescript": "^5.8.3"
+  },
+  "devDependencies": {
+    "@vercel/node": "^2.3.0"
+  }
+}
