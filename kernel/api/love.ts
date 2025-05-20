@@ -2,7 +2,6 @@ import { VercelRequest, VercelResponse } from '@vercel/node';
 
 module.exports = async (req: VercelRequest, res: VercelResponse) => {
     // --- CORS Headers ---
-    // 1. 允许的源 (根据你的需求设置为特定域名或 '*')
     res.setHeader('Access-Control-Allow-Origin', '*'); // 警告：'*' 允许任何源，生产环境请指定具体域名
 
     // 2. 允许客户端发送的头部 (包括你的自定义头部和常见的 Content-Type)
@@ -10,14 +9,6 @@ module.exports = async (req: VercelRequest, res: VercelResponse) => {
 
     // 3. 允许的 HTTP 方法
     res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS'); // 根据你的 API 支持的方法调整
-
-    // 4. (可选) 预检请求结果的缓存时间 (秒)
-    // res.setHeader('Access-Control-Max-Age', '86400'); // 24 hours
-
-    // 5. (可选) 如果客户端需要读取服务器响应中的自定义头部，则需要设置这个
-    // 例如，如果你的响应中有一个 'X-My-Response-Header'，客户端想读取它
-    // res.setHeader('Access-Control-Expose-Headers', 'X-My-Response-Header');
-    // 在你当前的代码中，你没有在响应中发送自定义头部让客户端读取，所以这个不是必需的。
 
     // --- Handle OPTIONS request (Preflight) ---
     if (req.method === 'OPTIONS') {
@@ -39,7 +30,7 @@ module.exports = async (req: VercelRequest, res: VercelResponse) => {
         message = `Invalid Token. Received: '${loveTokenHeader}'`;
     } else {
         status = 'success';
-        message = "Oh, Dear. I Love you too!";
+        message = "Oh, Dear. I Love you too! ❤️💐";
     }
 
     const data = {
