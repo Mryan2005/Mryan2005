@@ -62,7 +62,7 @@ This is my total time I devote into coding (since I created my wakaTime account)
 
 ## My top Languages📄
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,bash,md" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,bash,md" />
 
 ## Things Being Learned
 
