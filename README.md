@@ -77,6 +77,7 @@ This is my total time I devote into coding (since I created my wakaTime account)
 2. [Haibara Ai](https://github.com/Mryan2005/Haibara-Ai) (a private repo)
 3. [VentiEdgeAddon](https://github.com/Mryan2005/VentiEdgeAddon) (a private repo)
 4. [Cantonese Language Dictionary Web](https://github.com/CantoneseLanguageDictionary)
+5. [IsaacSimPlusROS2](https://github.com/IsaacSimPlusROS2)
 
 ## Some things I want to do
 
