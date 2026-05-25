@@ -78,6 +78,7 @@ This is my total time I devote into coding (since I created my wakaTime account)
 3. [VentiEdgeAddon](https://github.com/Mryan2005/VentiEdgeAddon) (a private repo)
 4. [Cantonese Language Dictionary Web](https://github.com/CantoneseLanguageDictionary)
 5. [IsaacSimPlusROS2](https://github.com/IsaacSimPlusROS2)
+6. [novel-manager](https://github.com/Mryan2005/novel-manager): A Vue project where you can manage your novels on your computer, and your files are never uploaded to the cloud.
 
 ## Some things I want to do
 
