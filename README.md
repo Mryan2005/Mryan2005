@@ -79,6 +79,7 @@ This is my total time I devote into coding (since I created my wakaTime account)
 4. [Cantonese Language Dictionary Web](https://github.com/CantoneseLanguageDictionary)
 5. [IsaacSimPlusROS2](https://github.com/IsaacSimPlusROS2)
 6. [novel-manager](https://github.com/Mryan2005/novel-manager): A Vue-based project that lets you manage your novels locally on your computer, without uploading your files to the cloud.
+7. [Where have I been in my life?](https://github.com/Mryan2005/Where-have-I-been-in-my-life)
 
 ## Some things I want to do
 
