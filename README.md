@@ -1,28 +1,20 @@
 ### Hi, I'm Mryan2005 🌿
 
-There was once a person who, from an early age, took a keen interest in all manner of new and unfamiliar things. He seemed to have a slightly unusual habit: while others were content to know how to use something, he always wanted to understand how it actually worked. How much good this curiosity has done him remains difficult to measure; what is certain is that, for a long time, it has made him reluctant to settle for being merely a user.
+There was once a person who had been fascinated by unfamiliar things since childhood. While others were content to learn how to use something, he wanted to know how it worked. How much this curiosity has benefited him remains uncertain; it has certainly kept him from settling for being merely a user.
 
-Growing up alongside the internet, he gradually found his way from using computers to writing software. At university, he chose to major in artificial intelligence, taking an interest in neural networks, language models, and software architecture. His questions, however, extend beyond machines: why do people need language, and how do the memories, emotions, and stories it carries take shape? Character development and worldbuilding sit quite comfortably beside programming in his life.
+Growing up with the internet, he gradually went from using computers to writing software. At university, he chose artificial intelligence, studying neural networks, language models, and software architecture. Yet character development and worldbuilding interest him just as much: he wonders both how machines generate language and how stories move people. His curiosity extends to why people need language, and how the memories and emotions it carries take shape.
 
-His projects tend to reflect this curiosity. Some are finished, some repeatedly revised, and some have acquired so many new features that they scarcely resemble their original designs. He seems less troubled by this than one might expect: a small problem has a habit of becoming a new idea, and a new idea rarely arrives without bringing several others along.
+His projects reflect this mixture. Some are finished; others keep acquiring features their original designs never anticipated. He seems untroubled. A small problem often becomes a new idea, and new ideas have a habit of inviting themselves into the project.
 
-Beyond computing and literature, he has recently developed another rather unusual interest: learning Cantonese as it is spoken in Hong Kong.
+He has also taken to learning Cantonese as spoken in Hong Kong. A few expressions with a distinct local flavour sparked his interest; soon he was looking up vocabulary, imitating pronunciation, and trying phrases in conversation. How much he can now say fluently remains a matter for further investigation.
 
-This hobby began without any grand ambition. He simply happened across a few expressions with a distinct local flavour, and soon became interested in the language's sounds, vocabulary, and everyday use. He began looking things up, imitating the pronunciation, and trying out a little Cantonese in everyday conversation. How much of it he can now use fluently is a matter that may require further investigation.
+Shanghai and Hong Kong figure prominently in his plans. He cares less about weighing a city's opportunities than about whether he can build a lasting life somewhere he truly likes. His interest in language, it seems, is not entirely separate from where he hopes to live.
 
-This interest in language, however, seems to have some connection with his thoughts about cities and his future life. He has always had views of his own on where he ought to live. Beyond simply asking what opportunities a city can offer, he seems more concerned with whether a person can build a lasting life in a place they truly love. Shanghai and Hong Kong have, in turn, become important places in his plans for the future.
+Conversations with him wander from programming to literature, then back to language models. The occasional Cantonese phrase leaves friends wondering whether he is preparing for AI research or already imagining life near Victoria Harbour.
 
-His friends have gradually discovered that conversations with him rarely stay within the confines of a single subject. A discussion of programming may suddenly turn to literature and the personalities of its characters; a conversation about storytelling may veer into an explanation of how language models work. Occasionally, he will slip a few phrases of Cantonese into the conversation, leaving people to wonder whether he is preparing for research in artificial intelligence or has already begun imagining a future life somewhere near Victoria Harbour.
+His future remains uncertain: research, software engineering, product design, and unfinished stories and AI projects all compete for attention. One thing is more consistent: he wants to understand why things exist, and how technology relates to people beyond questions of efficiency. Whether this curiosity will lead to achievement or scatter his energy across too many interests is still an open question. His life is, after all, still at a relatively early stage, and the many futures he so enjoys discussing have yet to arrive.
 
-What his future holds remains difficult to say. He may become a researcher, work in software engineering or product design, or continue devoting himself to those unfinished stories and AI projects. Given the breadth of his interests and the sheer number of his plans, predicting his eventual path is unlikely to be an easy task.
-
-There is, however, one relatively consistent trait about him: he is seldom satisfied simply to know that something exists, and always wants to ask why it exists in the first place. He is also reluctant to see technology merely as a way to improve efficiency, preferring to think about its relationship with people.
-
-Whether this habit will help him accomplish something, or simply leave him spreading his energy across too many interests, is not yet a question that can be answered with confidence. His life is, after all, still at a fairly early stage, and the future he so enjoys talking about is still some way off.
-
-His name is Mryan2005.
-
-Of course, if he were to introduce himself, it would probably be a much less solemn affair. He would most likely dispense with all the lengthy narration above and leave it at a single line:
+His name is Mryan2005. Asked to introduce himself, however, he would probably skip all this and simply say:
 
 > “Ciallo～(∠・ω< )⌒☆! I'm Mryan2005.”
 
