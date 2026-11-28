@@ -26,11 +26,4 @@ Outside code: traveling, Bilibili, and a soft spot for Venti.
 
 More: [Cantonese Language Dictionary](https://github.com/CantoneseLanguageDictionary) · [IsaacSimPlusROS2](https://github.com/IsaacSimPlusROS2)
 
-<details>
-<summary>GitHub & coding stats</summary>
-
-![GitHub metrics](./github-metrics.svg)
-
 [![Coding time](https://wakatime.com/badge/user/aa8df3f1-fb84-4e5f-972c-a799978f737d.svg)](https://wakatime.com/@aa8df3f1-fb84-4e5f-972c-a799978f737d)
-
-</details>
