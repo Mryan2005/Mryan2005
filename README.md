@@ -1,8 +1,38 @@
 ### Hi, I'm Mryan2005 🌿
 
-AI undergraduate at [Shanghai Polytechnic University](https://www.sspu.edu.cn/) in Shanghai. I build software to make everyday life a little easier.
+There was once a person who, from an early age, took a keen interest in all manner of new and unfamiliar things. He seemed to have a slightly unusual habit: while others were content to know how to use something, he always wanted to understand how it actually worked. How much good this curiosity has done him remains difficult to measure; what is certain is that, for a long time, it has made him reluctant to settle for being merely a user.
 
-Outside code: traveling, Bilibili, and a soft spot for Venti.
+He happened to grow up during a period of rapid growth for the internet. Computers, networks, and programming gradually entered his life and eventually became lasting interests. At first, he was merely curious about the world behind the screen; in time, that curiosity developed into a habit of studying how it worked. As for exactly when he went from being an ordinary computer user to a software developer, even he would probably struggle to name a particular day.
+
+When he entered university, he chose to major in artificial intelligence. Most people see it as a discipline concerned with making machines behave intelligently; to him, however, the questions it raises seem to extend much further. He is interested in how machines understand and generate language, but also in why humans need language at all, and how the memories, emotions, and stories it carries come into being.
+
+Unlike many students who focus on a single field, he seems unwilling to draw rigid boundaries between science, engineering, and the humanities. He studies neural networks, language models, and software architecture, while also taking a keen interest in character development, worldbuilding, and storytelling. In the former, he hopes to understand why machines can generate text; in the latter, he tries to work out why stories, themselves made up of words, can sometimes stir such complex emotions.
+
+This overlap of interests has also made his day-to-day activities rather varied. During his university years, he has taken part in various programming and software development projects and tried to build AI products of his own. Some projects have been completed, some have gone through repeated revisions, and others, after acquiring one new feature after another, have gradually come to bear little resemblance to their original designs.
+
+He does not seem particularly troubled by this. Rather than being driven chiefly by the prospect of completing a predefined task, he appears more easily drawn to the new questions that happen to arise along the way. What begins as a small problem to solve will often lead to a new design, which may in turn give the entire project several features that were never part of the original plan. As for when all these accumulating ideas might finally be brought to life, there is currently no definite answer.
+
+Beyond computing and literature, he has recently developed another rather unusual interest: learning Cantonese as it is spoken in Hong Kong.
+
+This hobby began without any grand ambition. He simply happened across a few expressions with a distinct local flavour, and soon became interested in the language's sounds, vocabulary, and everyday use. He began looking things up, imitating the pronunciation, and trying out a little Cantonese in everyday conversation. How much of it he can now use fluently is a matter that may require further investigation.
+
+This interest in language, however, seems to have some connection with his thoughts about cities and his future life. He has always had views of his own on where he ought to live. Beyond simply asking what opportunities a city can offer, he seems more concerned with whether a person can build a lasting life in a place they truly love. Shanghai and Hong Kong have, in turn, become important places in his plans for the future.
+
+His friends have gradually discovered that conversations with him rarely stay within the confines of a single subject. A discussion of programming may suddenly turn to literature and the personalities of its characters; a conversation about storytelling may veer into an explanation of how language models work. Occasionally, he will slip a few phrases of Cantonese into the conversation, leaving people to wonder whether he is preparing for research in artificial intelligence or has already begun imagining a future life somewhere near Victoria Harbour.
+
+What his future holds remains difficult to say. He may become a researcher, work in software engineering or product design, or continue devoting himself to those unfinished stories and AI projects. Given the breadth of his interests and the sheer number of his plans, predicting his eventual path is unlikely to be an easy task.
+
+There is, however, one relatively consistent trait about him: he is seldom satisfied simply to know that something exists, and always wants to ask why it exists in the first place. He is also reluctant to see technology merely as a way to improve efficiency, preferring to think about its relationship with people.
+
+Whether this habit will help him accomplish something, or simply leave him spreading his energy across too many interests, is not yet a question that can be answered with confidence. His life is, after all, still at a fairly early stage, and the future he so enjoys talking about is still some way off.
+
+His name is Mryan2005.
+
+Of course, if he were to introduce himself, it would probably be a much less solemn affair. He would most likely dispense with all the lengthy narration above and leave it at a single line:
+
+> “Ciallo～(∠・ω< )⌒☆! I'm Mryan2005.”
+
+For more details, visit [my website](https://index.mryan2005.top/home).
 
 [Hugging Face](https://huggingface.co/Mryan2005) · [Bilibili](https://space.bilibili.com/372328307) · [Weibo](https://weibo.com/mryan2005) · [Gitee](https://gitee.com/Mryan2005) · [CSDN](https://blog.csdn.net/qq_21739599)
 
